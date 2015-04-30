@@ -1,0 +1,11 @@
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\LightInject.dll
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\LightInject.pdb
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\bin\Debug\LightInject.xml
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\temp\AdfsTesting\CQRS Generic Query\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
